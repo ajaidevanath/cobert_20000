@@ -26,6 +26,7 @@ Also note that the code uses an inbuilt customized python class called as cluste
 
 
 ## Set up the covbert_20000 model 
+(Some of the code help from https://towardsdatascience.com/how-to-train-bert-for-q-a-in-any-language-63b62c780014 )
 
 The weights can be downloaded for the 20000 data points in the SQUAD dataset at [Weightsforcovbert](https://drive.google.com/drive/folders/1MEkQAQacoEQt4jQNbs3tR2uY4SL-Mkn2?usp=sharing)
 
